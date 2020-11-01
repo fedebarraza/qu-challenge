@@ -1,4 +1,4 @@
-# qu-challenge
+# swapi-vue
 
 ## Project setup
 ```
